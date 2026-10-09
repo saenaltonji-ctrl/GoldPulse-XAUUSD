@@ -1,0 +1,6 @@
+{
+  "name": "GoldPulse XAUUSD Trading Bot Studio",
+  "description": "Platform Robot Trading Otomatis XAU/USD (Gold) dengan simulasi algo real-time, backtesting presisi, strategi multi-indikator, dan manajemen risiko terintegrasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
